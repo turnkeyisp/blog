@@ -6,7 +6,7 @@ I'm continually impressed by the quality of work performed by TurnkeyISP remote 
 
 Our remote technical support staff typically post their ticket summaries into group chat. This gives the ISP's local team convenient visibility on service issues.
 
-Yesterday I was reviewing a group chat and I was especially proud of a new team member's contributions. Here are some of the team member's chat screenshots from yesterday. 
+Yesterday I was reviewing a group chat and I was especially proud of a new team member's contributions. Here are some of that team member's chat screenshots from yesterday. 
 
 
 ![alt text](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/rossell-summary-2021-02-01-1.jpg?raw=true)
