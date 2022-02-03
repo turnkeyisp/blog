@@ -16,9 +16,15 @@ Yesterday I was reviewing a group chat and I was especially proud of a new team 
 ![alt text](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/rossell-summary-2021-02-01-3.jpg?raw=true)
 
 
-These all came from one junior team member who has only been working with TurnkeyISP and the ISP client for a few months. Very impressive! What I love about these ticket summaries is the extremely high signal-to-noise ratios. They are short and sweet!
+These all came from one junior team member who has only been working with TurnkeyISP and the ISP client for a few months. Very impressive! 
 
-I edited out the customer contact info but each of these also contained the name, address, and phone number of each caller. Each summary is easy to read at a glance. They all contain the following elements:
+## Short and sweet
+
+I love that these ticket summaries have extremely high signal-to-noise ratios. They are short and sweet!
+
+I edited out the customer contact info but each of these also contained the customer contact information including the name, address, and phone number of each customer. Each summary is easy to read at a glance. 
+
+They all contain the following elements:
 
 
 ✅ Customer contact info
