@@ -1,8 +1,7 @@
 ---
-title: 'Don\'t Micromanage Your ISP Staff'
+title: Don't Micromanage Your ISP Staff
 date: '2022-02-05'
 tags: ['TurnkeyISP', 'ISP', 'Hiring', 'Managing']
-draft: true
 ---
 
 ![hire-smart-people-steve-jobs](/public/static/images/hire-smart-people-steve-jobs.png)
