@@ -97,4 +97,13 @@ module.exports = withBundleAnalyzer({
 
     return config
   },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: 'https://turnkeyisp.co',
+        permanent: false,
+      },
+    ]
+  },
 })
