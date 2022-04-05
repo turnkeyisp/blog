@@ -104,6 +104,11 @@ module.exports = withBundleAnalyzer({
         destination: 'https://turnkeyisp.co',
         permanent: false,
       },
+      {
+        source: '/blog/site',
+        destination: 'https://turnkeyisp.co',
+        permanent: false,
+      },
     ]
   },
 })
