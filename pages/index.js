@@ -16,10 +16,6 @@ export async function getStaticProps() {
 }
 
 export default function Home({ posts }) {
-  const router = useRouter()
-  // if (router.pathname == '/') {
-
-  // }
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
