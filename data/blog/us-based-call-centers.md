@@ -4,14 +4,14 @@ date: '2022-04-11'
 tags: ['Call Center', 'Contact Center', 'USA']
 draft: false
 image: '/static/images/us-locations.jpg'
-summary: 'TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for customer service representatives...'
+summary: 'TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for ISP customer service representatives...'
 ---
 
 # US-based ISP Call Centers in 2022
 
 ## TurnkeyISP is a fully-remote US-based call center for ISPs
 
-TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for customer service representatives (CSRs,) technical support representatives (TSRs,) and billing specialists because we understand it is important to not introduce language barriers when communicating with end-user customers who may already be frustrated.
+TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for ISP customer service representatives (CSRs,) technical support representatives (TSRs,) and billing specialists because we understand it is important to not introduce language barriers when communicating with ISP end-user customers who may already be frustrated.
 
 ![US locations](/static/images/us-locations.jpg)
 
@@ -21,7 +21,7 @@ There are 474,331 people employed in the telemarketing & call center industry in
 
 The primary reason telephone companies (telcos,) cable companies, competitive local exchange carriers (CLECs,) mobile network operators (MNOs,) wireless internet service providers (WISPs) and other internet service providers (ISPs) and communications service providers (CSPs) want US-based call centers and contact centers is to have access to workers who are native English speakers and have American accents. If a call center is based in the US then it is assumed that they will hire primarily native English speaking workers with local American accents.
 
-When an internet customer calls their ISP for support, it is important to not introduce frustrations caused by language barriers and cultural differences because the customer may already be frustrated by whatever problem caused them to call their ISP for support in the first place. ISP call centers advertise “US-based” as a shortcut to say “our workers have native American English accents and our call center won’t introduce frustrations caused by language barriers.”
+When an internet customer calls their ISP for support, it is important to not introduce frustrations caused by language barriers and cultural differences because the ISP customer may already be frustrated by whatever problem caused them to call their ISP for support in the first place. ISP call centers advertise “US-based” as a shortcut to say “our workers have native American English accents and our call center won’t introduce frustrations caused by language barriers.”
 
 While being US-based is helpful for marketing, advertising, and positioning, there are many reasons why I believe limiting call center operations to only a US-based workforce is a failed business model. Using the physical location as a primary selection criteria in the recruiting and hiring processes is unhelpfully limiting. It is inefficient and inaccurate and puts unnecessary constraints on call center operations. These inefficiencies were exacerbated by the COVID-19 pandemic which closed the central offices of call centers and forced them to go remote.
 
@@ -37,7 +37,7 @@ One of the advantages to using a call center rather than in-house support is tha
 
 Sometimes an ISP will have an in-house team and only use the call center for overflow when the in-house team is busy. For example, if everyone on the in-house team is already on the phone and a new call comes in, then they could route the call to overflow at the call center. Or the ISP could give the in-house team three rings to answer but if they don’t answer, then the ISP could forward the call to the call center.
 
-But an oversubscribed call center can be a huge problem if staffing levels are not maintained. Suddenly, instead of live answering during peak times, because of oversubscription, the call center will put customers on hold even when the client call volume is light.
+But an oversubscribed call center can be a huge problem if staffing levels are not maintained. Suddenly, instead of live answering during peak times, because of oversubscription, the call center will put ISP customers on hold even when the client call volume is light.
 
 Similarly call centers can allow ISPs to provide extended hours and after hours phone support even if their current call volume does not justify staffing those times.
 
@@ -79,7 +79,7 @@ Site selection group has compiled a list of the twenty five largest US-based cal
 | 24   | Sitel                  | 11,523              |
 | 25   | ADP                    | 11,374              |
 
-Many of the largest call center companies are ISPs including multiple system operators (MSOs,) telecom companies, or LTE/5G mobile carriers. Other companies on the list include dedicated contact center companies, insurance companies, banks, and one accounting firm.
+Many of the largest call center companies are ISPs including multiple system operators (MSOs,) telecom companies, or LTE/5G mobile carriers. Other companies on the list include dedicated contact center companies, insurance companies, banks, and one accounting firm. Spectrum customer service and Xfinity customer service are both in-house and outsourced.
 
 TurnkeyISP is an ISP focused call center and an ideal alternative to Alorica, Conduent, Concentrix, Teleperformance, TeleTech, Sykes, and Sitel for network operators and internet service providers.
 
@@ -87,11 +87,11 @@ TurnkeyISP is an ISP focused call center and an ideal alternative to Alorica, Co
 
 Startup ISPs are hyperlocal. For a new ISP it is difficult to compete with the incumbent ISPs on speed and price because the incumbent ISPs have deep pockets and the uses or has access to the same technologies that a startup ISP has access to. That means if a startup ISP can provide a 100 Mbps plan for $100 per month then the incumbent can probably do the same. The price and plan speeds of the incumbent providers is determined by the market conditions and the incumbent providers can easily adjust their offerings in a market to compete with a new market entrant, if they feel pressured to do so.
 
-However, it is easy for a new ISP to compete with the incumbent providers by having local technicians, more responsive support, and higher quality customer service. Sole proprietors and owner-operators often give their cell phone numbers to their early customers. When a customer chooses the local ISP, they know they can reach someone when they have a problem and they know the local ISP will value their business and be responsive to their needs. This is something the incumbent internet service providers can’t do, because it doesn’t scale.
+However, it is easy for a new ISP to compete with the incumbent providers by having local technicians, more responsive support, and higher quality ISP customer service. Sole proprietors and owner-operators often give their cell phone numbers to their early ISP customers. When an customer chooses the local ISP, they know they can reach someone when they have a problem and they know the local ISP will value their business and be responsive to their needs. This is something the incumbent internet service providers can’t do, because it doesn’t scale.
 
 A hyperlocal approach is an example of what Paul Graham with Y Combinator wrote about in his article “Do Things That Don’t Scale.” Being hyperlocal is an advantage a new ISP can use to gain traction in their local market. When a subscriber has a problem they know they can reach out to a local person for support and that local person will be responsive. Unfortunately that is a process that only works when the ISP is small. Once the subscriber base grows then things that don’t scale start to break down.
 
-Customers will reach out to the local team and the local team will be overwhelmed and not be responsive.
+ISP customers will reach out to the local team and the local team will be overwhelmed and not be responsive.
 
 ## Physical location doesn’t matter
 
@@ -110,7 +110,31 @@ ISP customers don’t like to call their service providers. They strongly prefer
 - SMS text messaging
 - Community forums
 
-Subscribers call their ISPs for billing, inbound sales, and technical support. In all three cases, if another support channel is available then the customers would choose any of those channels over calling the ISP call center. Calling the ISP call center for support is often the support channel of last resort.
+Subscribers call their ISPs for billing, inbound sales, and technical support. In all three cases, if another support channel is available then the ISP customers would choose any of those channels over calling the ISP call center. Calling the ISP call center for support is often the support channel of last resort.
+
+## How do I call my service provider?
+
+Another problem is that ISP subscribers can't use a web self-service portal if they don't have an internet connection and they can't call their ISP if they don't have phone service. If they bundle their phone and internet together or if you have a mobile phone with voice and data service and you have a problem, it can be difficult to get in touch with your service provider.
+
+As a service provider you should search for your own business name and "phone number" to see if search engines suggest the right phone number to call. If ISP customers can't reach you through your perferred channels, then they are more likely to try to reach you through alternate channels or give up.
+
+Some subscribers are very quick to leave an online review but most ubscribers will often only leave a review after they are motivated to do so. That motivation often comes in the form of a very bad experience that leads them to a breaking point. Sometimes it can be the frustrated caused by the inability to reach their service provider. For that reason TurnkeyISP recommends making your support channels available 24/7.
+
+## Types of call centers
+
+There are three basic types of ISP call centers: Inbound, outbound, and blended. Any call or contact center which enables its agents to make outbound and inbound calls along with dealing with customer concerns across multiple channels is a blended call center.
+
+Types of inbound calls include:
+
+- Technical support
+- Sales inquiries
+- Customer service
+- Contract renewals and retention
+- Subscriber billing
+
+Most outbound focused call centers are telemarketing focused and they make outbound sales related calls. But not all outbound call centers are telemarketing. Outbound calls include callbacks or returned calls such as reeturning disconnected calls, abandoned calls, voicemails, and performing follow-up satisfaction surveys. These are all common forms of outbound calls that do not necessarily involve outbound sales.
+
+Anothe type of outbound call that is not telemarketing related an offline investigescalation.
 
 ## Subscriber frustrations
 
