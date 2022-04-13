@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'TurnkeyISP Blog',
   author: 'TurnkeyISP',
   headerTitle: '',
-  description: 'A blog for TurnkeyISP',
+  description: 'A blog about local ISPs and call centers',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://turnkeyisp.co/blog',

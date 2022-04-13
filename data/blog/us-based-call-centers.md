@@ -9,7 +9,7 @@ summary: 'TurnkeyISP is an ISP call center and remote staffing agency that was f
 
 # US-based ISP Call Centers in 2022
 
-## TurnkeyISP is a fully-remote US-based call center for ISPs
+## TurnkeyISP is a fully-remote call center for ISPs
 
 TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for ISP customer service representatives (CSRs,) technical support representatives (TSRs,) and billing specialists because we understand it is important to not introduce language barriers when communicating with ISP end-user customers who may already be frustrated.
 
