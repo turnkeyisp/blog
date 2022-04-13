@@ -158,7 +158,7 @@ Many technical support call centers are slightly glorified call answering servic
 
 The average asking rent for Class A office space in New York City’s Manhattan was 79 U.S. dollars per square foot in the second quarter of 2021. Manhattan topped the list of most expensive urban areas in 2021 and the minimum wage there has been $15 per hour. This combination of factors makes Manhattan a cost prohibitive location to operate an ISP call center even though there is a large workforce
 
-The federal minimum wage is $7.25 an hour, a rate that has not gone up since 2009. As the current wage stagnates, its purchasing power erodes against inflation. The average living wage today—defined as an income threshold that provides basic shelter and food and keeps a person above the poverty level—is $16.54, according to research from the Massachusetts Institute of Technology.
+The federal minimum wage is \$7.25 an hour, a rate that has not gone up since 2009. As the current wage stagnates, its purchasing power erodes against inflation. The average living wage today—defined as an income threshold that provides basic shelter and food and keeps a person above the poverty level—is $16.54, according to research from the Massachusetts Institute of Technology.
 
 If you were considering opening a ISP call center or business process outsourcing (BPO) company, where do you think would be an ideal location? You would want access to a large labor force, inexpensive rent, and a low cost of living because your largest expense would be employee salaries.
 
