@@ -43,7 +43,7 @@ Similarly call centers can allow ISPs to provide extended hours and after hours 
 
 ## Scaling up your support team
 
-Call centers can also allow an ISP to quickly scale up their support team because theycan
+Call centers can also allow an ISP to quickly scale up their support team because call centers are generally operating at a large scale than a single ISP. Hiring takes time and a call center may have the staffing levels to be able to handle quick market expansion, growth, and acquisition.
 
 ## The 25 largest American call centers
 
