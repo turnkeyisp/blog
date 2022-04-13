@@ -17,6 +17,8 @@ TurnkeyISP is an ISP call center and remote staffing agency that was founded in 
 
 ## Advantages of US-based call centers
 
+![advantages.png](/static/images/advantages.png)
+
 There are 474,331 people employed in the telemarketing & call center industry in the US as of 2022 according to IBISWorld.
 
 The primary reason telephone companies (telcos,) cable companies, competitive local exchange carriers (CLECs,) mobile network operators (MNOs,) wireless internet service providers (WISPs) and other internet service providers (ISPs) and communications service providers (CSPs) want US-based call centers and contact centers is to have access to workers who are native English speakers and have American accents. If a call center is based in the US then it is assumed that they will hire primarily native English speaking workers with local American accents.
