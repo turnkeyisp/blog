@@ -17,11 +17,11 @@ TurnkeyISP is an ISP call center and remote staffing agency that was founded in 
 
 ## Advantages of US-based call centers
 
-![advantages.png](/static/images/advantages.png)
-
 There are 474,331 people employed in the telemarketing & call center industry in the US as of 2022 according to IBISWorld.
 
 The primary reason telephone companies (telcos,) cable companies, competitive local exchange carriers (CLECs,) mobile network operators (MNOs,) wireless internet service providers (WISPs) and other internet service providers (ISPs) and communications service providers (CSPs) want US-based call centers and contact centers is to have access to workers who are native English speakers and have American accents. If a call center is based in the US then it is assumed that they will hire primarily native English speaking workers with local American accents.
+
+![advantages.png](/static/images/advantages.png)
 
 When an internet customer calls their ISP for support, it is important to not introduce frustrations caused by language barriers and cultural differences because the ISP customer may already be frustrated by whatever problem caused them to call their ISP for support in the first place. ISP call centers advertise “US-based” as a shortcut to say “our workers have native American English accents and our call center won’t introduce frustrations caused by language barriers.”
 
@@ -31,6 +31,8 @@ While being US-based is helpful for marketing, advertising, and positioning, the
 
 Most Americans have experienced the frustration of offshore call centers from the customer perspective. We have a problem with a company’s products or services and we call the company for support only to reach a foreign customer service agent or remote technician at a call center who is not helpful. The agent is thousands of miles away, both literally and figuratively. The agent is difficult to understand, ambivalent to our problem, and unable to help. We naturally associate this bad experience with the foreign accent, but the root cause is not the foreign accent but rather an entire system that is broken and predestined to fail.
 
+![noisy-call-center.png](/static/images/noisy-call-center.jpg)
+
 The root cause of the problem is not the physical location of the agent. The main problems were they were difficult to understand, ambivalent to our problem, and unable to help. TurnkeyISP focuses on fixing these problems and we do not use our physical location as a shortcut.
 
 ## Oversubscription, it’s not just an ISP problem
@@ -38,6 +40,8 @@ The root cause of the problem is not the physical location of the agent. The mai
 One of the advantages to using a call center rather than in-house support is that a call center can average out the call volume amongst many clients, ISPs or otherwise. This is helpful when there is a local service outage because the call center may have the staff available to live answer every call during the outage. It would not be economical for a single ISP to maintain staff every day for rare events But by sharing staff amongst multiple clients, call centers can hire and maintain staffing levels based on average call volume across many clients
 
 Sometimes an ISP will have an in-house team and only use the call center for overflow when the in-house team is busy. For example, if everyone on the in-house team is already on the phone and a new call comes in, then they could route the call to overflow at the call center. Or the ISP could give the in-house team three rings to answer but if they don’t answer, then the ISP could forward the call to the call center.
+
+![phone-looking-at-watch.png](/static/images/phone-looking-at-watch.jpg)
 
 But an oversubscribed call center can be a huge problem if staffing levels are not maintained. Suddenly, instead of live answering during peak times, because of oversubscription, the call center will put ISP customers on hold even when the client call volume is light.
 
