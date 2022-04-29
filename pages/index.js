@@ -57,7 +57,7 @@ export default function Home({ posts }) {
                           <div className="w-[250px] h-[180px] relative">
                             <Image
                               src={image}
-                              alt="Picture of the author"
+                              alt="Picture "
                               layout="fill"
                               objectFit="scale-down"
                               className="rounded-md"

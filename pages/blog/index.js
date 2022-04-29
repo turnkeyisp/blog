@@ -43,13 +43,15 @@ export default function Home({ posts }) {
                       </dd>
                       <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 flex flex-col items-center mt-6">
                         {image && (
-                          <Image
-                            src={image}
-                            alt="a"
-                            height={120}
-                            width={150}
-                            className="rounded-md"
-                          />
+                          <div className="w-[250px] h-[180px] relative">
+                            <Image
+                              src={image}
+                              alt="Picture"
+                              layout="fill"
+                              objectFit="scale-down"
+                              className="rounded-md"
+                            />
+                          </div>
                         )}
                       </dd>
                     </dl>

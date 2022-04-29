@@ -1,6 +1,7 @@
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
+const isDev = process.env.NODE_ENV == 'development' ? true : false
 
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
@@ -98,6 +99,9 @@ module.exports = withBundleAnalyzer({
     return config
   },
   async redirects() {
+    if (isDev) {
+      return []
+    }
     return [
       {
         source: '/',
