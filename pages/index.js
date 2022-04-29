@@ -41,15 +41,28 @@ export default function Home({ posts }) {
                       <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                         <time dateTime={date}>{formatDate(date)}</time>
                       </dd>
-                      <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 flex flex-col items-center mt-6">
+                      {/* <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 flex flex-col items-center mt-6">
                         {image && (
                           <Image
                             src={image}
                             alt="a"
-                            height={120}
-                            width={150}
+                            width={'800'}
+                            height={'418'}
                             className="rounded-md"
                           />
+                        )}
+                      </dd> */}
+                      <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 flex flex-col items-center mt-6">
+                        {image && (
+                          <div className="w-[250px] h-[180px] relative">
+                            <Image
+                              src={image}
+                              alt="Picture of the author"
+                              layout="fill"
+                              objectFit="scale-down"
+                              className="rounded-md"
+                            />
+                          </div>
                         )}
                       </dd>
                     </dl>
