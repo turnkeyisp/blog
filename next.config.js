@@ -103,11 +103,11 @@ module.exports = withBundleAnalyzer({
       return []
     }
     return [
-      {
-        source: '/',
-        destination: 'https://turnkeyisp.co/blog',
-        permanent: false,
-      },
+      // {
+      //   source: '/',
+      //   destination: 'https://turnkeyisp.co/blog',
+      //   permanent: false,
+      // },
       {
         source: '/site',
         destination: 'https://turnkeyisp.co',
