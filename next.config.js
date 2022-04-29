@@ -99,15 +99,15 @@ module.exports = withBundleAnalyzer({
     return config
   },
   async redirects() {
-    if (isDev) {
-      return []
-    }
+    // if (isDev) {
+    //   return []
+    // }
     return [
-      {
-        source: '/blog/:path*',
-        destination: 'https://turnkeyisp.co/blog/:path*',
-        permanent: true,
-      },
+      // {
+      //   source: '/:path*',
+      //   destination: 'https://turnkeyisp.co/blog/:path*',
+      //   permanent: true,
+      // },
       {
         source: '/',
         destination: 'https://turnkeyisp.co/blog',
