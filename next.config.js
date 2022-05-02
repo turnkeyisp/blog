@@ -54,6 +54,7 @@ const securityHeaders = [
 ]
 
 module.exports = withBundleAnalyzer({
+  basePath: '/blog',
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
@@ -108,21 +109,21 @@ module.exports = withBundleAnalyzer({
       //   destination: 'https://turnkeyisp.co/blog/:path*',
       //   permanent: true,
       // },
-      {
-        source: '/',
-        destination: 'https://turnkeyisp.co/blog',
-        permanent: true,
-      },
-      {
-        source: '/site',
-        destination: 'https://turnkeyisp.co',
-        permanent: true,
-      },
-      {
-        source: '/blog/site',
-        destination: 'https://turnkeyisp.co',
-        permanent: true,
-      },
+      // {
+      //   source: '/',
+      //   destination: 'https://turnkeyisp.co/blog',
+      //   permanent: true,
+      // },
+      // {
+      //   source: '/site',
+      //   destination: 'https://turnkeyisp.co',
+      //   permanent: true,
+      // },
+      // {
+      //   source: '/blog/site',
+      //   destination: 'https://turnkeyisp.co',
+      //   permanent: true,
+      // },
     ]
   },
 })
