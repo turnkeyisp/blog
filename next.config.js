@@ -99,31 +99,31 @@ module.exports = withBundleAnalyzer({
 
     return config
   },
-  async redirects() {
-    // if (isDev) {
-    //   return []
-    // }
-    return [
-      // {
-      //   source: '/:path*',
-      //   destination: 'https://turnkeyisp.co/blog/:path*',
-      //   permanent: true,
-      // },
-      // {
-      //   source: '/',
-      //   destination: 'https://turnkeyisp.co/blog',
-      //   permanent: true,
-      // },
-      // {
-      //   source: '/site',
-      //   destination: 'https://turnkeyisp.co',
-      //   permanent: true,
-      // },
-      // {
-      //   source: '/blog/site',
-      //   destination: 'https://turnkeyisp.co',
-      //   permanent: true,
-      // },
-    ]
-  },
+  // async redirects() {
+  //   // if (isDev) {
+  //   //   return []
+  //   // }
+  //   return [
+  //     // {
+  //     //   source: '/:path*',
+  //     //   destination: 'https://turnkeyisp.co/blog/:path*',
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: '/',
+  //     //   destination: 'https://turnkeyisp.co/blog',
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: '/site',
+  //     //   destination: 'https://turnkeyisp.co',
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: '/blog/site',
+  //     //   destination: 'https://turnkeyisp.co',
+  //     //   permanent: true,
+  //     // },
+  //   ]
+  // },
 })

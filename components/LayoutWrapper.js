@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Logo from '@/data/logo.svg'
@@ -13,7 +14,7 @@ const LayoutWrapper = ({ children }) => {
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between py-10">
           <div>
-            <Link href="/blog/site" aria-label={siteMetadata.headerTitle}>
+            <a href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
                 <div className="mr-3">
                   <Logo />
@@ -26,7 +27,7 @@ const LayoutWrapper = ({ children }) => {
                   siteMetadata.headerTitle
                 )}
               </div>
-            </Link>
+            </a>
           </div>
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
