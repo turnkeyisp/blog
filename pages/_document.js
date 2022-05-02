@@ -21,8 +21,12 @@ class MyDocument extends Document {
             sizes="16x16"
             href="/blog/static/favicons/favicon-16x16.png"
           />
-          <link rel="manifest" href="/static/favicons/site.webmanifest" />
-          <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" />
+          <link rel="manifest" href="/blog/static/favicons/site.webmanifest" />
+          <link
+            rel="mask-icon"
+            href="/blog/static/favicons/safari-pinned-tab.svg"
+            color="#5bbad5"
+          />
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#000000" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />

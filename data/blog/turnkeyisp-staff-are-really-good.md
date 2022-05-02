@@ -1,7 +1,7 @@
 ---
 title: 'TurnkeyISP Staff Are Really Good!'
 date: '2022-02-02'
-tags: ['TurnkeyISP', 'TurnkeyISP', 'isp']
+tags: ['TurnkeyISP', 'isp']
 draft: false
 image: ''
 summary: ''
