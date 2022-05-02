@@ -1,6 +1,6 @@
 ---
 name: David Dean
-avatar: /static/images/daviddean.png
+avatar: /blog/static/images/daviddean.png
 occupation: Founder
 company: TurnkeyISP
 email: david@turnkeyisp.co

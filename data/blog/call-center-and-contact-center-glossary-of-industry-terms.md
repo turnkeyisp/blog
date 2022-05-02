@@ -3,7 +3,7 @@ title: 'Call Center and Contact Center Glossary of Industry Terms'
 date: '2022-04-06'
 tags: ['Call Center', 'Contact Center']
 draft: false
-image: '/static/images/call-center-glossary-collage.png'
+image: '/blog/static/images/call-center-glossary-collage.png'
 summary: 'This guide is intended to help people outside the call center industry familiarize themselves with the common industry terms...'
 ---
 
@@ -13,7 +13,7 @@ This guide is intended to help people outside the call center industry familiari
 
 ## Abandoned Call
 
-![abandonded call](/static/images/abandonded-call.jpg)
+![abandonded call](/blog/static/images/abandonded-call.jpg)
 
 An abandoned call is a call or other type of contact initiated to a call center that is ended before any conversation occurs. When inbound calls are abandoned, it is often because the caller is discouraged by the time on hold or a phone menu that is difficult to navigate.
 

@@ -5,7 +5,7 @@ tags: ['TurnkeyISP', 'ISP', 'Hiring', 'Managing']
 draft: true
 ---
 
-![hire-smart-people-steve-jobs](/public/static/images/hire-smart-people-steve-jobs.png)
+![hire-smart-people-steve-jobs](/public/blog/static/images/hire-smart-people-steve-jobs.png)
 
 # ISP owner-operators have enough to worry about; hire good people who manage themselves
 
