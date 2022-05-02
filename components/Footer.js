@@ -20,7 +20,7 @@ export default function Footer() {
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>
-          <a href="/">{siteMetadata.title}</a>
+          <a href="/blog">{siteMetadata.title}</a>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           {/* <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">

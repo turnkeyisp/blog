@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://turnkeyisp.co/blog',
   siteRepo: '',
-  siteLogo: '/blog/static/images/logo.png',
-  image: '/blog/static/images/blue-stacked.svg',
+  siteLogo: '/static/images/logo.png',
+  image: '/static/images/blue-stacked.svg',
   socialBanner: '/blog/static/images/twitter-card.png',
   email: 'hello@turnkeyisp.co',
   github: 'https://github.com/turnkeyisp',
