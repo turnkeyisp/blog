@@ -60,9 +60,9 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                     <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                       <time dateTime={date}>{formatDate(date)}</time>
                     </dd>
-                    <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 flex flex-col items-center mt-6">
+                    <dd className="mt-6 flex flex-col items-center text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                       {image && (
-                        <div className="w-[250px] h-[180px] relative">
+                        <div className="relative h-[180px] w-[250px]">
                           <Image
                             src={image}
                             alt="Picture of the author"
@@ -77,7 +77,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                   <div className="space-y-3 xl:col-span-3">
                     <div>
                       <h3 className="text-2xl font-bold leading-8 tracking-tight">
-                        <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
+                        <Link href={`/${slug}`} className="text-gray-900 dark:text-gray-100">
                           {title}
                         </Link>
                       </h3>
