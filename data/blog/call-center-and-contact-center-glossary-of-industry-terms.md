@@ -4,6 +4,7 @@ date: '2022-04-06'
 tags: ['Call Center', 'Contact Center']
 draft: false
 image: '/blog/static/images/call-center-glossary-collage.png'
+images: ['/blog/static/images/call-center-glossary-collage.png']
 summary: 'This guide is intended to help people outside the call center industry familiarize themselves with the common industry terms...'
 ---
 

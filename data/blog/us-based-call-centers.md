@@ -4,6 +4,7 @@ date: '2022-04-11'
 tags: ['Call Center', 'Contact Center', 'USA']
 draft: false
 image: '/blog/static/images/us-locations.jpg'
+images: ['/blog/static/images/us-locations.jpg']
 summary: 'TurnkeyISP is an ISP call center and remote staffing agency that was founded in Santa Fe, New Mexico USA at the start of the pandemic in the spring of 2020. We employ an English speaking workforce in the United States and around the world. English ability is our first and primary hiring criteria for ISP customer service representatives...'
 ---
 
