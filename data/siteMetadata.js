@@ -6,6 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://turnkeyisp.co/blog',
+  url: 'https://turnkeyisp.co',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/blue-stacked.svg',
