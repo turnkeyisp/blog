@@ -14,4 +14,6 @@ During the start of the pandemic I needed a call center for my own WISP. The exi
 
 I know that WISPs are held to higher standards by their subscribers. TurnkeyISP's mission is to improve the quality of WISP frontline subscriber support. We believe that if a call can be solved remotely then it should be solved remotely and this frees up the resources of the local team. We bring our own WISP backgrounds as well as our experiences supporting a variety of different WISPs.
 
+Here is a timeline of my job history in the WISP industry:
+
 ![job history timeline](/blog/static/images/job-history-timeline.jpeg)
