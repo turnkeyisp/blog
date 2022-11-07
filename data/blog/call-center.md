@@ -1,3 +1,12 @@
+---
+title: 'TurnkeyISP Staff Are Really Good!'
+date: '2022-11-06'
+tags: ['Call Center']
+draft: false
+image: ''
+summary: ''
+---
+
 What is a call center?
 ======================
 
