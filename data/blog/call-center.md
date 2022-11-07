@@ -1,6 +1,6 @@
 ---
 title: 'What is a call center?'
-date: '2022-11-06'
+date: '2022-11-07'
 tags: ['Call Center']
 draft: false
 image: ''
