@@ -4,7 +4,7 @@ date: '2022-11-07'
 tags: ['Call Center']
 draft: false
 image: ''
-summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. <a href=https://turnkeyisp.co>TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center.</a> This article will explain exactly what that means.'
+summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
 ---
 
 What is a call center?
