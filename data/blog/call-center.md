@@ -10,7 +10,7 @@ summary: 'Definition: A call center is a centralized organization that handles i
 What is a call center?
 ======================
 
-Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls.
+Definition, a call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls.
 
 [TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center.](https://turnkeyisp.co) This article will explain exactly what that means.
 
