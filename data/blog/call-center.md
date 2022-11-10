@@ -17,6 +17,8 @@ Definition: A call center is a centralized organization that handles inbound and
 What is the difference between a call center and a contact center?
 ==================================================================
 
+![inbound and outbound call center](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/call-center-contact-center-difference.png?raw=true)
+
 Call centers typically focus on one communication channel: phone calls. Contact centers provide support from additional channels of customer interaction, including email, chat, text messages, websites and applications. A contact center may include one or more call centers.
 
 Contact centers provide omnichannel support, assisting customers on whichever channel or device they prefer. Whether an organization chooses a call center or contact center depends on its products and services, the channels on which it provides customer support and the structures of the organization's support teams.
