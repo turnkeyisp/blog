@@ -28,6 +28,9 @@ Online merchants, telemarketing companies, help desks, mail-order organizations,
 
 The three most common types of call centers are inbound, outbound and blended call centers.
 
+![inbound and outbound call center](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/inbound-outbound-call-center.png?raw=true)
+
+
 Inbound call center
 -------------------
 
