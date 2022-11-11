@@ -8,6 +8,7 @@ images:
     '/blog/static/images/call-center-contact-center-difference.png',
     '/blog/static/images/inbound-outbound-call-center.png',
     '/blog/static/images/inhouse-outsourced.png',
+    '/blog/static/images/call-center-importance.png',
   ]
 image: '/blog/static/images/call-center-contact-center-difference.png'
 summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
@@ -50,6 +51,8 @@ In these call centers, an agent makes calls on behalf of the organization or cli
 This type of call center handles both inbound and outbound calls. A blended call center might also do customer call backs if the call gets disconnected or to follow-up after the call to make sure the customer is satisfied.
 
 # Importance of call centers
+
+![call center importance](/blog/static/images/call-center-importance.png)
 
 Businesses typically have limited hours of operation and limited staff available for customer interaction. Call centers allow the businesses to centralize their customer service interactions to extend their customer service hours and share customer service staff with other companies to scale their customer service. This is especially helpful if there is a widespread problem that might cause many inbound calls at once like a service disruption.
 
