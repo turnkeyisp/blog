@@ -9,6 +9,7 @@ images:
     '/blog/static/images/inbound-outbound-call-center.png',
     '/blog/static/images/inhouse-outsourced.png',
     '/blog/static/images/call-center-importance.png',
+    '/blog/static/images/call-center-industries.png',
   ]
 image: '/blog/static/images/call-center-contact-center-difference.png'
 summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
@@ -131,6 +132,8 @@ A chart of eight common call center technologies
 Explore eight of the most common technologies and tools found in call centers.
 
 # Examples of call centers across industries
+
+![call center industries](/blog/static/images/call-center-industries.png)
 
 Call centers can benefit any industry that interacts with customers over the phone. Examples include the following:
 
