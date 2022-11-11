@@ -1,6 +1,6 @@
 ---
 title: 'What is a call center?'
-date: '2022-11-07'
+date: '2022-11-11'
 tags: ['Call Center']
 draft: false
 images:
@@ -71,6 +71,8 @@ Beyond inbound, outbound and blended, further classifications of call centers in
 ![inhouse outsourced call center](/blog/static/images/inhouse-outsourced.png)
 
 ## In-house call center
+
+![inhouse call center](/blog/static/images/inhouse-call-center.png)
 
 The organization owns and runs its call center and hires its agents.
 
@@ -149,6 +151,8 @@ Call centers can benefit any industry that interacts with customers over the pho
 Telecommunications: Customers call telcos for sales, billing, and technical support. Classically telecoms only provided telephone services but now telco services include mobile phone, messaging, data, fixed wireless access (FWA), DSL and fiber optic home internet access, business phone systems, TV and streaming services and much more. The added complexity of the service offerings has made providing phone support much more complex as well.
 
 Airlines. Customers call airline toll-free numbers to engage with IVR menus or speak to customer service agents. Customers can check flight statuses, obtain flight details and check frequent flier mileage balances. In addition, flyers can speak to customer service agents to re-book a flight. When weather conditions, such as a large winter storm, cause flight delays or cancellations, airlines can quickly respond to customer needs.
+
+![healthcare call center](/blog/static/images/healthcare-call-center.png)
 
 Healthcare. Customers call healthcare providers to make, change or confirm appointments and to ask physicians questions. When a medical emergency arises off-hours, healthcare providers can use outsourced call centers to receive calls and route them to an on-call physician.
 
