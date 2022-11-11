@@ -10,6 +10,7 @@ images:
     '/blog/static/images/inhouse-outsourced.png',
     '/blog/static/images/call-center-importance.png',
     '/blog/static/images/call-center-industries.png',
+    '/blog/static/images/call-center-agents.png',
   ]
 image: '/blog/static/images/call-center-contact-center-difference.png'
 summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
@@ -87,7 +88,9 @@ The organization employs geographically dispersed agents who answer calls using 
 
 Many different roles make up call center teams, including agents, team leaders and IT personnel.
 
-### Call center agents.
+### Call center agents
+
+![call center agents](/blog/static/images/call-center-agents.png)
 
 Agents are the key point of contact between an organization and its customers, as agents talk directly with customers and handle their calls. Depending on the type of call center, agents may handle either incoming or outgoing calls. Call center agents typically have customer service skills, are knowledgeable about the organization and are creative problem-solvers.
 
