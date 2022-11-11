@@ -12,6 +12,7 @@ images:
     '/blog/static/images/call-center-industries.png',
     '/blog/static/images/call-center-agents.png',
     '/blog/static/images/call-center-team-leads.png',
+    '/blog/static/images/outsourced-call-center.png',
   ]
 image: '/blog/static/images/call-center-contact-center-difference.png'
 summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
@@ -74,6 +75,8 @@ Beyond inbound, outbound and blended, further classifications of call centers in
 The organization owns and runs its call center and hires its agents.
 
 ## Outsourced call center
+
+![outsourced call center](/blog/static/images/outsourced-call-center.png)
 
 The organization hires a third party to handle calls on its behalf, generally to remove the burdens of hiring and training call center agents and investing in and updating call center technology, which can reduce operating costs.
 
