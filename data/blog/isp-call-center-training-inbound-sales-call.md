@@ -1,6 +1,6 @@
 ---
 title: 'Training: ISP Call Center Inbound Sales Call'
-date: '2022-11-11'
+date: '2022-11-12'
 tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
 image: '/blog/static/images/inbound-sales.png'
