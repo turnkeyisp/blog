@@ -5,14 +5,14 @@ tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
 image: '/blog/static/images/inbound-sales.png'
 images: ['/blog/static/images/inbound-sales.png']
-summary: 'Question: You get an call wanting to know what services are available at their hoome address. TurnkeyISP just onboarded the WISP/telco client. You do not know the answers. What do you do?'
+summary: 'Question: You get an inbound sales call. The caller wants to know what services might be available at their home address. TurnkeyISP just onboarded this WISP/telco client and you do not know the answers. What do you do?'
 ---
 
 # Question
 
 ## Inbound sales call from new customer
 
-You get a call from someone who wants to know more about an ISP's services. The caller wants to know if the services are available at their address and what service plans are available. This is for a newly onboarded WISP/telco account. You don't know the answers. What do you do?
+You get a call from someone who wants to know more about an ISP's services. The caller wants to know if the services are available at their address and what service plans are available. This is for a newly onboarded WISP or telco account. You don't know the answers. What do you do?
 
 # Answers from TurnkeyISP customer service representatives
 
