@@ -5,7 +5,7 @@ tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
 image: '/blog/static/images/inbound-sales.png'
 images: ['/blog/static/images/inbound-sales.png']
-summary: 'Question: You get a call from someone who wants to know more about an ISP&apos;s services. The caller wants to know if the services are available at their address and what service plans are available. This is for a newly onboarded WISP/telco account. You don&apos;t know the answers. What do you do?'
+summary: 'Question: You get an call wanting to know what services are available at their hoome address. TurnkeyISP just onboarded the WISP/telco client. You do not know the answers. What do you do?'
 ---
 
 # Question
