@@ -18,7 +18,9 @@ You get a call from someone who wants to know more about an ISP's services. The 
 
 ## 1\. Get caller contact info
 
-"I'll collect as much information as I can, will put customers on hold and will look for answers. I will try not to keep the customers on hold too much."
+![contact info](/blog/static/images/contact-list.png)
+
+"I'll collect as much information as I can, will put customers on hold for a moment and will look for answers. I will try not to keep the customers on hold too much."
 
 ## 2\. Reference the ISP's website
 
