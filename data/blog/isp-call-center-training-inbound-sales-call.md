@@ -18,15 +18,21 @@ You get a call from someone who wants to know more about an ISP's services. The 
 
 ## 1\. Get caller contact info
 
-![contact info](/blog/static/images/contact-list.png)
+![subscriber contact info](/blog/static/images/contact-list.png)
 
-"I'll collect as much information as I can, will put customers on hold for a moment and will look for answers. I will try not to keep the customers on hold too much."
+"I'll collect as much information as I can, will put the customer on hold for a moment and will look for answers. I will try not to keep the customers on hold too long."
+
+TurnkeyISP customer service representatives are trained to get the full name, email address, phone number, and service address of every caller.
 
 ## 2\. Reference the ISP's website
+
+![isp website](/blog/static/images/website.png)
 
 "I would search for the client's main web page and try to figure the information out. If we have a contact from the clients I will ask them and if not getting an answer I will take the customer information, name address and ph# and tell him someone will get back to him."
 
 ## 3\. Use the website signup form
+
+![sigup form](/blog/static/images/signup-form.png)
 
 "First I gather the customer's information like full name, complete address, email and best contact number. I help the customer sign up through the ISP's website and walk them through how to navigate the website so they can check the service packages and will give a heads up that someone from our sales team will reach out to them."
 
@@ -43,6 +49,8 @@ You get a call from someone who wants to know more about an ISP's services. The 
 "If a customer is calling asking for service in his area, depending on the client the call is coming in from I would create an account for cx, gather his or her information, address, phone, full name, email and add it to his account to create him as a lead. I would then escalate to have a sales team reach out. In the case of one client we can schedule a site survey visit to make sure that the service Is available and they will continue from there."
 
 ## 7\. Send complete info to the ISP's local team
+
+![complete info](/blog/static/images/complete-info.png)
 
 "Regarding your question about a call from someone who'd want to know more about ISP services - before receiving calls I'd read what the ISP tells on the website in order to be able to tell at least something.  But I guess that our main role is to get the customer's address, contact information and send them to the ISP's staff, because availability and exact prices often might be known only after a survey."
 
