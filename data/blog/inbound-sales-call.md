@@ -1,5 +1,5 @@
 ---
-title: 'Training: ISP Call Center Inbound Sales Call'
+title: 'Inbound Sales Call'
 date: '2022-11-12'
 tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
