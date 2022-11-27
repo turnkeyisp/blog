@@ -57,7 +57,7 @@ TurnkeyISP customer service representatives are trained to always get the full n
 
 ![isp website](/blog/static/images/website.png)
 
-"I would search for the client's main webpage and try to find the relevante information." -Luis
+"I would search on the client's main webpage and try to find the relevant information." -Luis
 
 Our clients typically have websites which outline their service plans and availability. Even if our staff are not familiar with the ISP's services and availability, we can still reference the client's website and answer questions for callers. If the caller doesn't have internet service, then calling the ISP may be the most convenient option for them to quickly get answers to their questions and determine if the ISP's services will be a good fit.
 
