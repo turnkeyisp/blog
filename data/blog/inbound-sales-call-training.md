@@ -16,7 +16,7 @@ images:
     '/blog/static/images/call-center-team-leads.png',
   ]
 image: '/blog/static/images/top-of-sales-funnel-1200x630.png'
-summary: 'We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as the in-house team for an ISP is capable of handling every kind of call, the outsourced telco call center should also be able to handle every type of call. Callers should never never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live answer and help callers with sales, billing, and technical support issues. This blog post explores how we doing it.'
+summary: 'We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as an in-house admin team for an ISP is capable of handling every type of call, the outsourced telco call center should also be able to handle every type of call. Callers should never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live-answer and help with sales, billing, and technical support issues. This blog post explores how we doing it.'
 ---
 
 # Question
@@ -25,9 +25,9 @@ summary: 'We believe subscribers should be able to call their ISP and quickly ge
 
 ![top of sales funnel](/blog/static/images/top-of-sales-funnel-1200x630.png)
 
-We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as the in-house team for an ISP is capable of handling every kind of call, the outsourced telco call center should also be able to handle every type of call. Callers should never never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live answer and help callers with sales, billing, and technical support issues. This blog post explores how we doing it.
+We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as an in-house admin team for an ISP is capable of handling every type of call, the outsourced telco call center should also be able to handle every type of call. Callers should never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live-answer and help with sales, billing, and technical support issues. This blog post explores how we doing it.
 
-Prospective ISP and telco clients often ask how our call center, which specializes in ISP technical support, handles inbound sales calls. Most of our smaller ISP clients have a general customer support team which handles all types of calls including sales, billing, and technical support calls. TurnkeyISP functions similar to an ISP's in-house admin team and TurnkeyISP trains our technical support specialists to handle sales and billing calls as well. Our call center is able to assist with general customer service and our technical support specialists are able to handle all types of calls. This model is typically the same as smaller ISPs who have an in-house team that are able to assist with every type of call.
+Prospective ISP and telco clients often ask how our call center, which specializes in ISP technical support, handles inbound sales calls. Most of our smaller ISP clients have an in-house admin team which handles all types of calls including sales, billing, and technical support calls. TurnkeyISP functions similar to an ISP's in-house admin team. TurnkeyISP trains our technical support specialists to handle sales and billing calls as well.
 
 Here is a summary of how we train our staff to handle inbound sales calls:
 
