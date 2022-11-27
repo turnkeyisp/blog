@@ -5,6 +5,7 @@ tags: ['Call Center']
 draft: false
 images:
   [
+    '/blog/static/images/call-center.png',
     '/blog/static/images/call-center-contact-center-difference.png',
     '/blog/static/images/inbound-outbound-call-center.png',
     '/blog/static/images/inhouse-outsourced.png',
