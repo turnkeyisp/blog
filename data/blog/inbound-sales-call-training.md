@@ -5,7 +5,7 @@ tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
 images:
   [
-    '/blog/static/images/top-of-sales-funnel.png',
+    '/blog/static/images/top-of-sales-funnel-1200x630.png',
     '/blog/static/images/contact-list.png',
     '/blog/static/images/website.png',
     '/blog/static/images/signup-form.png',
@@ -15,7 +15,7 @@ images:
     '/blog/static/images/complete-info.png',
     '/blog/static/images/call-center-team-leads.png',
   ]
-image: '/blog/static/images/sales-funnel.png'
+image: '/blog/static/images/top-of-sales-funnel-1200x630.png'
 summary: 'We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as the in-house team for an ISP is capable of handling every kind of call, the outsourced telco call center should also be able to handle every type of call. Callers should never never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live answer and help callers with sales, billing, and technical support issues. This blog post explores how we doing it.'
 ---
 
@@ -23,7 +23,7 @@ summary: 'We believe subscribers should be able to call their ISP and quickly ge
 
 ## Inbound sales call from new customer
 
-![top of sales funnel](/blog/static/images/top-of-sales-funnel.png)
+![top of sales funnel](/blog/static/images/top-of-sales-funnel-1200x630.png)
 
 We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as the in-house team for an ISP is capable of handling every kind of call, the outsourced telco call center should also be able to handle every type of call. Callers should never never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live answer and help callers with sales, billing, and technical support issues. This blog post explores how we doing it.
 
