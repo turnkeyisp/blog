@@ -34,7 +34,7 @@ Here is a summary of how we train our staff to handle inbound sales calls:
 1. Get complete caller contact info
 2. Reference the ISP's website
 3. Use the website signup form
-4. Reference TurnkeyISP's telco client documentation
+4. Reference TurnkeyISP's client documentation
 5. Calm confidence
 6. Schedule a site survey
 7. Send complete info to the ISP's local team
@@ -71,7 +71,7 @@ Also, some customers want to be sure that the ISP will answer the phone when the
 
 TurnkeyISP trains employees to input the customer information into the webform. This keeps all the new customer signups going through a single channel and creates a single repository of signup information that can be easily referenced in the future.
 
-## 4\. Reference TurnkeyISP's telco client documentation
+## 4\. Reference TurnkeyISP's client documentation
 
 ![internal client documentation](/blog/static/images/internal-documentation.png)
 
