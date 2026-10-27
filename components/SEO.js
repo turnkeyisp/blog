@@ -1,15 +1,17 @@
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import siteMetadata from '@/data/siteMetadata'
+import { publicBlogUrl } from '@/lib/public-url'
 
 const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl }) => {
   const router = useRouter()
+  const pageUrl = publicBlogUrl(canonicalUrl || router.asPath)
   return (
     <Head>
       <title>{title}</title>
       <meta name="robots" content="follow, index" />
       <meta name="description" content={description} />
-      <meta property="og:url" content={`${siteMetadata.siteUrl}${router.asPath}`} />
+      <meta property="og:url" content={pageUrl} />
       <meta property="og:type" content={ogType} />
       <meta property="og:site_name" content={siteMetadata.title} />
       <meta property="og:description" content={description} />
@@ -24,17 +26,14 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={twImage} />
-      <link
-        rel="canonical"
-        href={canonicalUrl ? canonicalUrl : `${siteMetadata.siteUrl}${router.asPath}`}
-      />
+      <link rel="canonical" href={pageUrl} />
     </Head>
   )
 }
 
 export const PageSEO = ({ title, description }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
-  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
+  const ogImageUrl = publicBlogUrl(siteMetadata.socialBanner)
+  const twImageUrl = ogImageUrl
   return (
     <CommonSEO
       title={title}
@@ -47,8 +46,8 @@ export const PageSEO = ({ title, description }) => {
 }
 
 export const TagSEO = ({ title, description }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
-  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
+  const ogImageUrl = publicBlogUrl(siteMetadata.socialBanner)
+  const twImageUrl = ogImageUrl
   const router = useRouter()
   return (
     <>
@@ -64,7 +63,7 @@ export const TagSEO = ({ title, description }) => {
           rel="alternate"
           type="application/rss+xml"
           title={`${description} - RSS feed`}
-          href={`${siteMetadata.siteUrl}${router.asPath}/feed.xml`}
+          href={`${publicBlogUrl(router.asPath)}/feed.xml`}
         />
       </Head>
     </>
@@ -95,7 +94,7 @@ export const BlogSEO = ({
   const featuredImages = imagesArr.map((img) => {
     return {
       '@type': 'ImageObject',
-      url: img.includes('http') ? img : siteMetadata.url + img,
+      url: publicBlogUrl(img),
     }
   })
 
@@ -119,7 +118,7 @@ export const BlogSEO = ({
     '@type': 'Article',
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': url,
+      '@id': publicBlogUrl(canonicalUrl || url || router.asPath),
     },
     headline: title,
     image: featuredImages,
@@ -131,13 +130,13 @@ export const BlogSEO = ({
       name: siteMetadata.author,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
+        url: publicBlogUrl(siteMetadata.siteLogo),
       },
     },
     description: summary,
   }
 
-  const twImageUrl = thumbnailImage ? thumbnailImage : featuredImages[0].url
+  const twImageUrl = thumbnailImage ? publicBlogUrl(thumbnailImage) : featuredImages[0].url
 
   return (
     <>

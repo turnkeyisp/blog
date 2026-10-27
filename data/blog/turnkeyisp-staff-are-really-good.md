@@ -4,7 +4,7 @@ date: '2022-02-02'
 tags: ['TurnkeyISP', 'isp']
 draft: false
 image: ''
-summary: ''
+summary: 'How TurnkeyISP technicians document subscriber issues, verify fixes, and work with local ISP teams to resolve recurring technical problems.'
 ---
 
 # TurnkeyISP Staff Are Really Good!

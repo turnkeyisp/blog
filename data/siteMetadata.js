@@ -5,10 +5,10 @@ const siteMetadata = {
   description: 'A blog about local ISPs and call centers',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://turnkeyisp.co/blog',
-  url: 'https://turnkeyisp.co',
+  siteUrl: 'https://turnkeyisp.com/blog',
+  url: 'https://turnkeyisp.com',
   siteRepo: '',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/turnkeyisp-logo-blue-horizontal.svg',
   image: '/static/images/blue-stacked.svg',
   socialBanner: '/blog/static/images/twitter-card.png',
   email: 'hello@turnkeyisp.co',

@@ -90,10 +90,14 @@ module.exports = withBundleAnalyzer({
     return [
       {
         source: '/',
-        destination: 'https://turnkeyisp.co/',
+        destination: 'https://turnkeyisp.com/',
         permanent: true,
         basePath: false,
       },
+      { source: '/blog', destination: '/', permanent: true },
+      { source: '/page/1', destination: '/', permanent: true },
+      { source: '/blog/page/:page', destination: '/page/:page', permanent: true },
+      { source: '/blog/:slug*', destination: '/:slug*', permanent: true },
     ]
   },
 })
