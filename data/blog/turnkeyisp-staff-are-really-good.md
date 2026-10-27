@@ -16,11 +16,11 @@ Our remote technical support staff typically post their ticket summaries into gr
 
 Yesterday I was reviewing a group chat and I was especially proud of a new team member's contributions. Here are some of that team member's chat screenshots from yesterday.
 
-![alt text](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/rossell-summary-2021-02-01-1.jpg?raw=true)
+![alt text](/blog/static/images/rossell-summary-2021-02-01-1.jpg)
 
-![alt text](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/rossell-summary-2021-02-01-2.jpg?raw=true)
+![alt text](/blog/static/images/rossell-summary-2021-02-01-2.jpg)
 
-![alt text](https://github.com/turnkeyisp/turnkeyisp-blog/blob/master/public/static/images/rossell-summary-2021-02-01-3.jpg?raw=true)
+![alt text](/blog/static/images/rossell-summary-2021-02-01-3.jpg)
 
 These all came from one junior team member who has only been working with TurnkeyISP and the ISP client for a few months. Very impressive!
 
