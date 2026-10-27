@@ -1,6 +1,7 @@
 ---
 title: 'What is a call center?'
 date: '2022-11-11'
+lastmod: '2026-10-27'
 tags: ['Call Center']
 draft: false
 images:
@@ -16,7 +17,7 @@ images:
     '/blog/static/images/outsourced-call-center.png',
   ]
 image: '/blog/static/images/call-center.png'
-summary: 'Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls. TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center. This article will explain exactly what that means.'
+summary: 'Learn how inbound, outbound, and virtual call centers work, and what ISPs should look for in subscriber support, staffing, and reporting.'
 ---
 
 # What is a call center?
@@ -25,7 +26,7 @@ summary: 'Definition: A call center is a centralized organization that handles i
 
 Definition: A call center is a centralized organization that handles inbound and outbound calls from current and potential customers. Call centers are located either within a single organization or outsourced to another company that specializes in handling calls.
 
-[TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center.](https://turnkeyisp.co) This article will explain exactly what that means.
+[TurnkeyISP is a live answer, virtual, blended, outsourced, telco contact center.](https://turnkeyisp.com) This article will explain exactly what that means.
 
 # What is the difference between a call center and a contact center?
 
@@ -51,7 +52,7 @@ Agents in an inbound call center may handle calls from current or potential cust
 
 ## Outbound call center
 
-In these call centers, an agent makes calls on behalf of the organization or client for tasks, including lead generation, telemarketing, customer retention, fundraising, surveying, collecting debts or scheduling appointments. To maximize efficiency, an automated dialer can make the calls and then transfer them to an available agent after the caller connects. In the USA, outbound call centers must ensure compliance with the National Do Not Call Registry, a list to which U.S. citizens can add their phone numbers to avoid unwanted solicitation calls.
+In these call centers, an agent makes calls on behalf of the organization or client for tasks, including lead generation, telemarketing, customer retention, fundraising, surveying, collecting debts or scheduling appointments. To maximize efficiency, an automated dialer can make the calls and then transfer them to an available agent after the caller connects. Outbound campaigns need documented contact lists, approved scripts, and calling procedures appropriate to their purpose.
 
 ## Blended call center
 
@@ -75,7 +76,7 @@ Beyond inbound, outbound and blended, further classifications of call centers in
 
 ## In-house call center
 
-![inhouse call center](/blog/static/images/inhouse-call-center.png)
+![inhouse call center](/blog/static/images/in-house-call-center.png)
 
 The organization owns and runs its call center and hires its agents.
 
@@ -87,7 +88,7 @@ The organization hires a third party to handle calls on its behalf, generally to
 
 ## Offshore call center
 
-The organization outsources its operations to a company in another country, often to save money on wages and provide services around the clock. Drawbacks to an offshore call center include reduced customer satisfaction due to language issues and a lack of knowledge about the organization, product or service due to distance.
+The organization works with a third-party team in another country. Evaluate communication, technical knowledge, coverage, and handoffs directly rather than treating location as a measure of support quality.
 
 ## Virtual call center
 
@@ -141,9 +142,7 @@ outbound dialers; and
 
 chatbot or virtual assistant technology.
 
-A chart of eight common call center technologies
-
-Explore eight of the most common technologies and tools found in call centers.
+For ISPs, these tools should connect subscriber records, tickets, troubleshooting notes, and the next action required from the local team.
 
 # Examples of call centers across industries
 
@@ -157,7 +156,7 @@ Airlines. Customers call airline toll-free numbers to engage with IVR menus or s
 
 ![healthcare call center](/blog/static/images/healthcare-call-center.png)
 
-Healthcare. Customers call healthcare providers to make, change or confirm appointments and to ask physicians questions. When a medical emergency arises off-hours, healthcare providers can use outsourced call centers to receive calls and route them to an on-call physician.
+Healthcare. Customers call healthcare providers to make, change or confirm appointments and to ask physicians questions. Call-handling procedures should specify which scheduling and administrative questions staff may handle and where other inquiries are directed.
 
 Retail. Customers call retail businesses for assistance before, during or after purchases. Before or during purchase, a customer may ask a customer service agent about shipping details or the retailer's return policy. After a purchase, customers may call to report a missing item or request a return.
 
@@ -166,3 +165,9 @@ Retail. Customers call retail businesses for assistance before, during or after 
 Organizations should track key performance indicators (KPIs) to measure the success rates and efficiency of call centers and agents. The KPIs may vary depending on the center's function: An outbound call center may measure cost per call, revenue earned, total calls made and tasks completed, among other metrics. Inbound call center metrics may include first call resolution (FCR), average wait time and abandoned call rates.
 
 In addition, organizations can use speech analytics software to monitor and analyze call center agent performance. It can identify areas that may require more knowledge and training, which can improve call handling times and FCR.
+
+## Choosing support for an ISP
+
+Match the service to the work your team needs covered. [WISP technical support](https://turnkeyisp.com/wisp-support/) focuses on subscriber troubleshooting, while [after-hours and overflow support](https://turnkeyisp.com/after-hours-isp-support/) extends call handling beyond your local team's availability. [Dedicated ISP staffing](https://turnkeyisp.com/dedicated-isp-staffing/) assigns a role to your company's daily workflow. Network alert investigation and outage coordination belong in a separately defined [ISP NOC scope](https://turnkeyisp.com/isp-noc-services/).
+
+Before starting, agree on the coverage window, approved troubleshooting steps, ticket fields, and situations that require an immediate escalation. Review the handoff with the people who will receive those tickets.

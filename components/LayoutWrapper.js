@@ -14,7 +14,7 @@ const LayoutWrapper = ({ children }) => {
       <div className="flex h-screen flex-col justify-between">
         <header className="flex items-center justify-between py-10">
           <div>
-            <a href="/" aria-label={siteMetadata.headerTitle}>
+            <a href="/" aria-label="TurnkeyISP home">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
                   <Logo />

@@ -1,6 +1,7 @@
 ---
 title: 'Inbound Sales Call Training'
 date: '2022-11-20'
+lastmod: '2026-10-27'
 tags: ['Training', 'Inbound Sales', 'Call Center']
 draft: false
 images:
@@ -16,7 +17,7 @@ images:
     '/blog/static/images/call-center-team-leads.png',
   ]
 image: '/blog/static/images/top-of-sales-funnel-1200x630.png'
-summary: 'We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as an in-house admin team for an ISP is capable of handling every type of call, the outsourced telco call center should also be able to handle every type of call. Callers should never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live-answer and help with sales, billing, and technical support issues. This blog post explores how we doing it.'
+summary: 'How ISP support staff handle inbound sales calls: capture contact details, check service information, document the inquiry, and hand off the next step.'
 ---
 
 # Question
@@ -25,9 +26,9 @@ summary: 'We believe subscribers should be able to call their ISP and quickly ge
 
 ![top of sales funnel](/blog/static/images/top-of-sales-funnel-1200x630.png)
 
-We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as an in-house admin team for an ISP is capable of handling every type of call, the outsourced telco call center should also be able to handle every type of call. Callers should never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live-answer and help with sales, billing, and technical support issues. This blog post explores how we doing it.
+We believe subscribers should be able to call their ISP and quickly get help for any issue, regardless if the issue is related to sales, billing, or technical support. Just as an in-house admin team for an ISP is capable of handling every type of call, the outsourced telco call center should also be able to handle every type of call. Callers should never get the run-around and they should not be told to call back during regular business hours. TurnkeyISP staff are trained to live-answer and help with sales, billing, and technical support issues. This blog post explores how we do it.
 
-Prospective ISP and telco clients often ask how our call center, which specializes in ISP technical support, handles inbound sales calls. Most of our smaller ISP clients have an in-house admin team which handles all types of calls including sales, billing, and technical support calls. TurnkeyISP functions similar to an ISP's in-house admin team. TurnkeyISP trains our technical support specialists to handle sales and billing calls as well.
+Prospective ISP and telco clients often ask how our call center, which specializes in ISP technical support, handles inbound sales calls. Most of our smaller ISP clients have an in-house admin team which handles all types of calls including sales, billing, and technical support calls. TurnkeyISP functions similarly to an ISP's in-house admin team. TurnkeyISP trains our technical support specialists to handle sales and billing calls as well.
 
 Here is a summary of how we train our staff to handle inbound sales calls:
 
@@ -97,7 +98,7 @@ The question presupposes that we don't know the answers to the caller's question
 
 "Regarding your question about a call from someone who'd want to know more about ISP services - before receiving calls I'd read what the ISP tells on the website in order to be able to tell at least something.  But I guess that our main role is to get the customer's address, contact information and send them to the ISP's staff, because availability and exact prices often might be known only after a survey." -Igor
 
-## 7\. Comminicate with the ISP client
+## 7\. Communicate with the ISP client
 
 "I would ask my coworkers at TurnkeyISP and, if we have the ISP client's contact information, then I will also reach out to them by phone, email, or group chat for answers. I will then add the answers to the client documentation." -Edgar
 
@@ -114,3 +115,9 @@ TurnkeyISP staff are trained to work the same way your in-house team works: We w
 ![call center team lead](/blog/static/images/call-center-team-leads.png)
 
 "Get customer contact info: Full name, physical address, best callback phone number and email address. Check if there is any documentation from the client about handling these types of inquiries. Follow documentation. If not, check the website and see if they have a signup form or a page that shows their plans. You can have the customer look at that page and check if there is a plan to their liking. You can also offer a callback because you will double check some information regarding their inquiry. Reach out to the client on what needs to be done for this call and ask if the plans on the website are still accurate (if there was a page that had up-to-date info) and include the contact details of the customer . Follow whatever instructions the client gives you about the inquiry." -Cherrie
+
+## Put the training into your support workflow
+
+Choose [dedicated ISP staffing](https://turnkeyisp.com/dedicated-isp-staffing/) when one role should own inquiries and follow-up during an agreed schedule. Use [after-hours and overflow support](https://turnkeyisp.com/after-hours-isp-support/) when the local team needs additional call coverage. An inquiry that turns into a subscriber troubleshooting request can follow your [WISP technical support](https://turnkeyisp.com/wisp-support/) runbook.
+
+Record the service address, the information checked, any unanswered questions, and the person responsible for the next action. Staff should use the ISP's approved service availability and plan information rather than promise an installation date or technical capability they have not confirmed.

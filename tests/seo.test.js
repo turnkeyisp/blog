@@ -5,6 +5,29 @@ const os = require('node:os')
 const path = require('node:path')
 const { execFileSync } = require('node:child_process')
 const { publicBlogUrl } = require('../lib/public-url')
+const { localImage } = require('../lib/local-image')
+
+test('local images resolve the blog prefix, expose dimensions, and reject missing or unsafe paths', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'turnkey-image-'))
+  try {
+    fs.mkdirSync(path.join(root, 'public/static/images'), { recursive: true })
+    fs.writeFileSync(
+      path.join(root, 'public/static/images/pixel.png'),
+      Buffer.from(
+        'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=',
+        'base64'
+      )
+    )
+    const expected = { src: '/blog/static/images/pixel.png', width: 1, height: 1 }
+    assert.deepEqual(localImage('/blog/static/images/pixel.png', root), expected)
+    assert.deepEqual(localImage('/static/images/pixel.png?version=1', root), expected)
+    assert.equal(localImage('https://example.com/image.png', root), null)
+    assert.throws(() => localImage('/blog/static/images/missing.png', root), /Missing local image/)
+    assert.throws(() => localImage('/blog/../../private.png', root), /Invalid image path/)
+  } finally {
+    fs.rmSync(root, { recursive: true, force: true })
+  }
+})
 
 test('public URLs normalize base paths, legacy domains and query strings', () => {
   const cases = [
@@ -69,4 +92,13 @@ test('sitemap lists published routes and tags, excludes drafts and route templat
   } finally {
     fs.rmSync(directory, { recursive: true, force: true })
   }
+})
+
+test('large JPEG metadata resolves without the bounded header-read failure', () => {
+  const image = localImage(
+    '/blog/static/images/job-history-timeline.jpeg',
+    path.resolve(__dirname, '..')
+  )
+  assert.equal(image.width, 2345)
+  assert.equal(image.height, 1226)
 })

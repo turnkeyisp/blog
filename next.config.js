@@ -6,7 +6,7 @@ const isDev = process.env.NODE_ENV == 'development' ? true : false
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app https://www.googletagmanager.com;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
@@ -55,6 +55,10 @@ const securityHeaders = [
 
 module.exports = withBundleAnalyzer({
   basePath: '/blog',
+  images: {
+    formats: ['image/webp'],
+    deviceSizes: [384, 640, 768, 1024, 1536, 1920],
+  },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {

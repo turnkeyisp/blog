@@ -1,6 +1,7 @@
 ---
 title: 'Call Center and Contact Center Glossary of Industry Terms'
 date: '2022-04-06'
+lastmod: '2026-10-27'
 tags: ['Call Center', 'Contact Center']
 draft: false
 image: '/blog/static/images/call-center-glossary-collage.png'
@@ -158,3 +159,7 @@ Wrap time is the time used by the agent following the end of a call to complete 
 ## Web Self-Service
 
 Web self-service is a form of customer service and support that lives on your business's website, specifically, it allows website visitors and customers to identify solutions and resolve their problems through support-focused resources like your knowledge base, webinars, community forums, wikis, and FAQs.
+
+## Apply these terms to ISP operations
+
+Separate subscriber call handling from network operations when defining your support scope. [After-hours ISP support](https://turnkeyisp.com/after-hours-isp-support/) covers agreed call queues and escalation procedures; [ISP NOC services](https://turnkeyisp.com/isp-noc-services/) cover monitoring alerts, investigation, and outage coordination. Use the same definitions in your runbooks, ticket fields, and shift handoffs.

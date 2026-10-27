@@ -1,6 +1,7 @@
 ---
 title: 'TurnkeyISP Staff Are Really Good!'
 date: '2022-02-02'
+lastmod: '2026-10-27'
 tags: ['TurnkeyISP', 'isp']
 draft: false
 image: ''
@@ -64,3 +65,7 @@ Our remote staff work as extensions of local teams, making local teams more effe
 ✅ Pinpointing the problems so your field techs arrive prepared and don't need to troubleshoot from the beginning
 
 TurnkeyISP staff are long-term and we work with you toward your long-term goals. Our team gets to know your business, your local team, your network, and your subscribers and actively participates in your business. When your ISP is successful then we are successful. And that is super exciting!!
+
+## Define the handoff before support starts
+
+For a [dedicated ISP support role](https://turnkeyisp.com/dedicated-isp-staffing/), agree which tickets the staff member owns and which decisions require your local team. For [WISP subscriber support](https://turnkeyisp.com/wisp-support/), define the checks, notes, and escalation contacts used when a problem requires a site visit. These responsibilities should be recorded in the onboarding material and reviewed when your systems or procedures change.
